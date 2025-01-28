@@ -38,7 +38,7 @@ namespace gyokeres
             }
             else
             {
-                MessageBox.Show("Введите корректную цену.");
+    
             }
         }
     }
